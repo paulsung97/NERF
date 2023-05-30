@@ -41,8 +41,10 @@ An error occurred when the imread function of the imageio library received 'igno
 The error was resolved by removing the 'ignoregamma' argument from line 110 of load_llff.py. 
 
 The code was modified as follows 
+[
 return imageio.imread(f, ignoregamma=True)
 ->>
 return imageio.imread(f)
+]
 
 This removes ignoregamma=True and allows the file to be trained.
