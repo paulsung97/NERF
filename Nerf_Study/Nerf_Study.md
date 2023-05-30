@@ -14,7 +14,7 @@ I used room data to try this out for the first time.
 1. I built it on python = 3.7 using the anaconda prompt on Windows 10. 
 2. After downloading the file, I installed reqirement.txt. 
 The detailed requirement is as follows.
-====================
+———————————————————
 torch==1.11.0
 torchvision>=0.9.1
 imageio
@@ -24,7 +24,7 @@ configargparse
 tensorboard>=2.0
 tqdm
 opencv-python
-====================
+———————————————————
 3. For learning purposes, we configured CUDA as follows.
 Configured with pytorch cuda 11.6.
 torch +116, 
