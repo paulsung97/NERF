@@ -48,3 +48,6 @@ return imageio.imread(f)
 ]
 
 This removes ignoregamma=True and allows the file to be trained.
+#Start training
+<img width="978" alt="image" src="https://github.com/paulsung97/3D_myStudy/assets/63456050/01cfa364-6e1e-4830-b651-f5099faf08be">
+
