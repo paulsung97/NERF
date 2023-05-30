@@ -7,7 +7,7 @@ The method uses machine learning, specifically neural network models, to generat
 https://arxiv.org/abs/2003.08934
 
 
-## To-do
+# To-do
 I used room data to try this out for the first time.
 
 ## Setting Up the Environment
