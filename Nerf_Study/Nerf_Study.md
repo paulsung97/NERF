@@ -11,8 +11,8 @@ https://arxiv.org/abs/2003.08934
 I used room data to try this out for the first time.
 
 ## Setting Up the Environment
-###1. I built it on python = 3.7 using the anaconda prompt on Windows 10. 
-###2. After downloading the file, I installed reqirement.txt. 
+1. I built it on python = 3.7 using the anaconda prompt on Windows 10. 
+2. After downloading the file, I installed reqirement.txt. 
 The detailed requirement is as follows.
 [
 torch==1.11.0
@@ -33,7 +33,7 @@ torchaudio +116,
 torchvision +116 
 were all set to 11.6.
 
-###4. solved Error
+4. solved Error
 python run_nerf.py --config configs/room.txt
 I ran the code for learning and got the following error.
 
