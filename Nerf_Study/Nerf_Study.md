@@ -26,7 +26,7 @@ tqdm
 opencv-python
 ]
 
-###3. For learning purposes, we configured CUDA as follows.
+3. For learning purposes, we configured CUDA as follows.
 Configured with pytorch cuda 11.6.
 torch +116, 
 torchaudio +116, 
