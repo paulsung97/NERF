@@ -11,7 +11,7 @@ https://arxiv.org/abs/2003.08934
 I used room data to try this out for the first time.
 
 ## Setting Up the Environment
-1. I built it on python = 3.7 using the anaconda prompt on Windows 10. 
+1. built on Python = 3.7 using the Anaconda prompt on Windows 10. The graphics card used is an Nvidia RTX3060. 
 2. After downloading the file, I installed reqirement.txt. 
 The detailed requirement is as follows.
 [
