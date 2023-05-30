@@ -33,7 +33,7 @@ torchaudio +116,
 torchvision +116 
 were all set to 11.6.
 
-4. solved Error.
+## solved Error
 python run_nerf.py --config configs/room.txt
 I ran the code for learning and got the following error.
 
