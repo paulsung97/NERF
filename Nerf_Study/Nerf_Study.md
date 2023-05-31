@@ -6,7 +6,15 @@ The method uses machine learning, specifically neural network models, to generat
 ## paper
 https://arxiv.org/abs/2003.08934
 
-## cite
+# Citation
+@misc{mildenhall2020nerf,
+    title={NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis},
+    author={Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
+    year={2020},
+    eprint={2003.08934},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 @misc{lin2020nerfpytorch,
   title={NeRF-pytorch},
   author={Yen-Chen, Lin},
