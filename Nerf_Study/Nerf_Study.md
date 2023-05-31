@@ -6,6 +6,16 @@ The method uses machine learning, specifically neural network models, to generat
 ## paper
 https://arxiv.org/abs/2003.08934
 
+## cite
+@misc{lin2020nerfpytorch,
+  title={NeRF-pytorch},
+  author={Yen-Chen, Lin},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished={\url{https://github.com/yenchenlin/nerf-pytorch/}},
+  year={2020}
+}
+
 
 # To-do
 I used room data to try this out for the first time.
