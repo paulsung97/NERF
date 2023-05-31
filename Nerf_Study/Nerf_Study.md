@@ -52,3 +52,12 @@ This removes ignoregamma=True and allows the file to be trained.
 # Start training
 <img width="978" alt="image" src="https://github.com/paulsung97/3D_myStudy/assets/63456050/01cfa364-6e1e-4830-b651-f5099faf08be">
 
+The study took about 10 hours and 18 minutes. 
+The end result is the following
+
+<img width="978" alt="image" src="https://github.com/paulsung97/3D_myStudy/assets/63456050/93b2c8f0-daf7-4a35-b30f-637f476ee856">
+
+[[TRAIN] Iter: 200000 Loss: 0.0008910191827453673 PSNR: 36.04010772705078]
+
+<img width="978" alt="image" src="https://github.com/paulsung97/3D_myStudy/assets/63456050/1d95833d-9583-4fcc-9df2-d541e4e45bbf">
+
