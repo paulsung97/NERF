@@ -2,4 +2,4 @@
 Study about 3D image
 
 ## 1. Nurf
-## 2/ ffm
+## 2. ffm
