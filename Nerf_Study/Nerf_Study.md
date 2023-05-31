@@ -61,3 +61,11 @@ The end result is the following
 
 <img width="978" alt="image" src="https://github.com/paulsung97/3D_myStudy/assets/63456050/1d95833d-9583-4fcc-9df2-d541e4e45bbf">
 
+
+# This is the finished result.
+
+
+https://github.com/paulsung97/3D_myStudy/assets/63456050/2ebb0f45-14ee-4686-82cb-783586a749da
+
+
+
