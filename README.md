@@ -2,7 +2,7 @@
 Study about 3D image
 
 ## 1. Nurf
-# what is Nerf?
+## what is Nerf?
 Nerf proposes a new way to effectively represent and synthesize 3D scenes.
 The method uses machine learning, specifically neural network models, to generate 3D scenes from 2D images.
 
@@ -10,7 +10,7 @@ The method uses machine learning, specifically neural network models, to generat
 ## paper
 https://arxiv.org/abs/2003.08934
 
-# Citation
+## Citation
 @misc{mildenhall2020nerf,
     title={NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis},
     author={Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
@@ -29,7 +29,7 @@ https://arxiv.org/abs/2003.08934
 }
 
 
-# To-do
+## To-do
 I used room data to try this out for the first time.
 
 ## Setting Up the Environment
@@ -71,7 +71,7 @@ return imageio.imread(f)
 
 This removes ignoregamma=True and allows the file to be trained.
 
-# Start training
+## Start training
 <img width="978" alt="image" src="https://github.com/paulsung97/3D_myStudy/assets/63456050/01cfa364-6e1e-4830-b651-f5099faf08be">
 
 The study took about 10 hours and 18 minutes. 
@@ -84,7 +84,7 @@ The end result is the following
 <img width="978" alt="image" src="https://github.com/paulsung97/3D_myStudy/assets/63456050/1d95833d-9583-4fcc-9df2-d541e4e45bbf">
 
 
-# This is the finished result.
+## This is the finished result.
 
 
 https://github.com/paulsung97/3D_myStudy/assets/63456050/2ebb0f45-14ee-4686-82cb-783586a749da
