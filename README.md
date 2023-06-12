@@ -1,7 +1,7 @@
 # 3D_myStudy
 Study about 3D image
 
-## 1. Nurf
+## 1. Nurf (Neural Radiance Fields)
 ## what is Nerf?
 Nerf proposes a new way to effectively represent and synthesize 3D scenes.
 The method uses machine learning, specifically neural network models, to generate 3D scenes from 2D images.
@@ -92,4 +92,4 @@ https://github.com/paulsung97/3D_myStudy/assets/63456050/2ebb0f45-14ee-4686-82cb
 
 
 
-## 2. ffm
+## 2. FFM (Free-Form Fabrication)
