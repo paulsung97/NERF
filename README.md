@@ -92,4 +92,4 @@ https://github.com/paulsung97/3D_myStudy/assets/63456050/2ebb0f45-14ee-4686-82cb
 
 
 
-## 2. FFM
+## 2. FSM
