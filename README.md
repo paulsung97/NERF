@@ -1,6 +1,3 @@
-# 3D_myStudy
-Study about 3D image
-
 ## 1. Nerf (Neural Radiance Fields)
 ## what is Nerf?
 Nerf proposes a new way to effectively represent and synthesize 3D scenes.
@@ -89,7 +86,3 @@ The end result is the following
 
 https://github.com/paulsung97/3D_myStudy/assets/63456050/2ebb0f45-14ee-4686-82cb-783586a749da
 
-
-
-
-## 2. FSM
